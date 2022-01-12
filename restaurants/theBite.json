@@ -1,0 +1,15 @@
+{
+	"name": "The Bite",
+	"description": "The Bite is a Swiss-Canadian gourmet burger restaurant in Zurich. Homemade burgers.",
+	"dishes": [
+		{
+			"name": "The Temple Bar",
+			"description": "Burger with guinness-bacon-jam, blue cheese and balsamic aioli",
+			"review": "The Bite is a great place to go for burgers. Temple Bar is a delicious burger with a sweet, guinness-bacon-jam, blue cheese, and balsamic aioli. The jam is sweet and the blue cheese is tangy. The balsamic aioli is tasty and the fries are crispy. This is the best restaurant for burgers.",
+			"src": "/assets/models/gltf/theBite_theTemplebar.gltf",
+			"iosSrc": "/assets/models/usdz/theBite_theTemplebar.usdz",
+			"skyboxImage": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/photo_studio_loft_hall_1k.hdr",
+			"poster": "/assets/thumb/IMG_1867.jpg"
+		}
+	]
+}

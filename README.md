@@ -18,4 +18,4 @@
 
 -   [Next.js](https://nextjs.org/)
 -   [tailwindcss](https://tailwindcss.com/)
--   [<model-viewer>](https://modelviewer.dev/)
+-   [model-viewer](https://modelviewer.dev/)
